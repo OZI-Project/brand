@@ -1,7 +1,7 @@
 # Brand
 
 Brand image and acceptable use policies.
-This readme text is licensed and the OZI logo are licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
+This readme text and the OZI logo are licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 Fonts are hosted here for use in OZI Project webpages and services. 
 Font source files are used under license terms included in their respective folders.
 
