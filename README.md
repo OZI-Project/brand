@@ -32,4 +32,4 @@ I, like many, have strong feelings about the use of generative AI. However, outr
 
 \- Eden Rose Duff MSc
 
-[![HumanCreated](no-ai-icon-01.svg)](https://no-ai-icon.com/statement/?url=oziproject.dev)
+[<img src="no-ai-icon-01.svg" width=72px>](https://no-ai-icon.com/statement/?url=oziproject.dev)
