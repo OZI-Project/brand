@@ -1,6 +1,6 @@
-# brand
+# Brand
 
-Brand image and acceptable use policies.
+Brand image and acceptable use policies. This readme text is licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 
 ## Fonts
 
@@ -17,3 +17,4 @@ The original OZI Project logo was designed by Eden Rose MSc by layering the lett
 Latin Modern Mono. This was then rescaled to approximate the small cap version x-height,
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
+
