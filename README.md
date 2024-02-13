@@ -13,7 +13,7 @@ For monospace and code presentation we prefer Martian Mono. The preferred font f
 lockup is Latin Modern Mono for the OZI application and Atkinson Hyperlegible for the greater
 OZI Project organization.
 
-## Logos
+## Images
 
 The original OZI Project logo was designed by Eden Rose MSc by layering the letters "OZI" in
 Latin Modern Mono. This was then rescaled to approximate the small cap version x-height,
