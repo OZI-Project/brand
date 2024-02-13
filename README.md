@@ -29,4 +29,5 @@ were transformed spherically to yield the second version of the logo that is cur
 ## Generative AI Transparency
 
 I, like many, have strong feelings about the use of generative AI. However, outright rejection of any AI-generated content is an infeasably strong rubric. I believe that we should make every endeavour to account for ANY use of generative AI and mark it appropriately while also marking copy that is wholly human-created as such.
-- Eden Rose Duff MSc
+
+\- Eden Rose Duff MSc
