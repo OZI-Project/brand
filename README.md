@@ -20,8 +20,8 @@ Latin Modern Mono. This was then rescaled to approximate the small cap version x
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
 
-✅ Invert the logo up to .8 for visual contrast.
+* ✅ Invert the logo up to .8 for visual contrast.
 
-🛑 DO NOT add your own colorways or background.
-🛑 DO NOT distort or obscure the OZI logo.
-🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
+* 🛑 DO NOT add your own colorways or background.
+* 🛑 DO NOT distort or obscure the OZI logo.
+* 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
