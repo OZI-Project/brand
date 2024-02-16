@@ -10,8 +10,10 @@ Font source files are used under license terms included in their respective fold
 The OZI Project prefers to present english language copy in Atkinson Hyperlegible,
 treated as a sans-serif. For specialized emphasis and serif we prefer Noto Serif HK.
 For monospace and code presentation we prefer Martian Mono. The preferred font for logo
-lockup is Latin Modern Mono for the OZI application and Atkinson Hyperlegible for the greater
-OZI Project organization.
+lockup is Latin Modern Mono or Martian Mono for OZI application media and
+Atkinson Hyperlegible for OZI Project organization media. In typeset materials,
+intended for print, we are using TeX Gyre Heros for sans-serif, TeX Gyre Termes for serif,
+and TXTT for monospace.
 
 ## Images
 
