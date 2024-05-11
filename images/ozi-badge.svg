@@ -23,7 +23,7 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="13.636364"
      inkscape:cx="35.676666"
      inkscape:cy="14.63"
@@ -32,7 +32,11 @@
      inkscape:window-x="0"
      inkscape:window-y="1114"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g26" />
+     inkscape:current-layer="g26">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3250" />
+  </sodipodi:namedview>
   <title
      id="title2">OZI</title>
   <linearGradient
@@ -108,7 +112,7 @@
     <text
        x="385"
        y="140"
-       transform="matrix(0.1285542,0,0,0.1285542,-9.7950411,-2.0321386)"
+       transform="matrix(0.1285542,0,0,0.1285542,-8.6217078,-3.6654721)"
        fill="#ffffff"
        textLength="210"
        id="text24"
