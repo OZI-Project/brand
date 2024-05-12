@@ -21,14 +21,14 @@
        inkscape:menu-tooltip="Inky splotches underneath the object"
        style="color-interpolation-filters:sRGB;"
        id="filter1153"
-       x="-0.017217523"
-       y="-0.048255064"
-       width="1.034435"
-       height="1.0965101">
+       x="-0.013528054"
+       y="-0.037914693"
+       width="1.0270561"
+       height="1.0758294">
       <feGaussianBlur
          result="result1"
          in="SourceGraphic"
-         stdDeviation="0.30000000000000004"
+         stdDeviation="0"
          id="feGaussianBlur1141" />
       <feTurbulence
          result="result0"
@@ -75,7 +75,7 @@
      inkscape:window-x="50"
      inkscape:window-y="1200"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g18">
+     inkscape:current-layer="g26">
     <inkscape:grid
        type="xygrid"
        id="grid3250" />
