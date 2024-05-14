@@ -36,7 +36,7 @@ Latin Modern Mono. This was then rescaled to approximate the small cap version x
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
 
-![blastpipe-logo](images/ozi_logo_v2.svg)
+<img src="images/ozi_logo_v2.svg" width="200px">
 
 * ✅ Invert the logo up to .8 for visual contrast.
 
@@ -51,7 +51,7 @@ You should NOT do this with the OZI logo yourself, this is the only logo variant
 
 The blastpipe logo was designed by Eden Ross Duff.
 
-![blastpipe-logo](images/blastpipe-logo.svg)
+<img src="images/blastpipe-logo.svg" width="220px">
 
 * 🛑 DO NOT add your own colorways or background.
 * 🛑 DO NOT distort or obscure the blastpipe logo<sup>*</sup>.
