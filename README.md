@@ -36,7 +36,6 @@ Latin Modern Mono. This was then rescaled to approximate the small cap version x
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
 
-![blastpipe-logo](images/ozi_logo_square.png)
 ![blastpipe-logo](images/ozi_logo_v2.svg)
 
 * ✅ Invert the logo up to .8 for visual contrast.
@@ -45,7 +44,7 @@ were transformed spherically to yield the second version of the logo that is cur
 * 🛑 DO NOT distort or obscure the OZI logo<sup>*</sup>.
 * 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
 
-*Note that the sole exception is the OZI Badge which uses an ink-bleed effect.
+<sup>*</sup>Note that the sole exception is the OZI Badge ![OZI Badge](images/ozi-badge.svg) which uses an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo variant currently authorized.
 
 ### blastpipe logo
@@ -55,8 +54,8 @@ The blastpipe logo was designed by Eden Ross Duff.
 ![blastpipe-logo](images/blastpipe-logo.svg)
 
 * 🛑 DO NOT add your own colorways or background.
-* 🛑 DO NOT distort or obscure the OZI logo<sup>*</sup>.
-* 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
+* 🛑 DO NOT distort or obscure the blastpipe logo<sup>*</sup>.
+* 🛑 DO NOT use the blastpipe logo in such a way as to suggest endorsement or affiliation.
 
 ## Generative AI Transparency
 
