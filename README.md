@@ -36,7 +36,6 @@ Latin Modern Mono. This was then rescaled to approximate the small cap version x
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
 
-![blastpipe-logo](images/ozi_logo_square.png)
 ![blastpipe-logo](images/ozi_logo_v2.svg)
 
 * ✅ Invert the logo up to .8 for visual contrast.
