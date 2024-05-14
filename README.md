@@ -1,7 +1,7 @@
 # Brand
 
 Brand image and acceptable use policies.
-This README text, the OZI logo, and OZI badge are licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
+This README text, the OZI logo, OZI badge, and blastpipe logo are licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 Fonts are hosted here for use in OZI Project webpages, documentation, and services.
 Font source files are used under license terms included in their respective folders.
 
@@ -31,10 +31,13 @@ In English typeset copy:
 
 ### OZI Logo
 
-The original OZI Project logo was designed by Eden Rose MSc by layering the letters "OZI" in
+The original OZI Project logo was designed by Eden Ross Duff MSc by layering the letters "OZI" in
 Latin Modern Mono. This was then rescaled to approximate the small cap version x-height,
 making the logo roughly square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo that is currently in use.
+
+![blastpipe-logo](images/ozi_logo_square.png)
+![blastpipe-logo](images/ozi_logo_v2.svg)
 
 * ✅ Invert the logo up to .8 for visual contrast.
 
@@ -44,6 +47,16 @@ were transformed spherically to yield the second version of the logo that is cur
 
 *Note that the sole exception is the OZI Badge which uses an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo variant currently authorized.
+
+### blastpipe logo
+
+The blastpipe logo was designed by Eden Ross Duff.
+
+![blastpipe-logo](images/blastpipe-logo.svg)
+
+* 🛑 DO NOT add your own colorways or background.
+* 🛑 DO NOT distort or obscure the OZI logo<sup>*</sup>.
+* 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
 
 ## Generative AI Transparency
 
