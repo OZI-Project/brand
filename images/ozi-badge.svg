@@ -12,7 +12,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs32">
     <filter
@@ -21,14 +24,14 @@
        inkscape:menu-tooltip="Inky splotches underneath the object"
        style="color-interpolation-filters:sRGB;"
        id="filter1153"
-       x="-0.013528054"
-       y="-0.037914693"
-       width="1.0270561"
-       height="1.0758294">
+       x="-0.017217523"
+       y="-0.048255064"
+       width="1.034435"
+       height="1.0965101">
       <feGaussianBlur
          result="result1"
          in="SourceGraphic"
-         stdDeviation="0"
+         stdDeviation="0.30000000000000004"
          id="feGaussianBlur1141" />
       <feTurbulence
          result="result0"
@@ -57,6 +60,50 @@
          in2="result3"
          id="feComposite1151" />
     </filter>
+    <filter
+       inkscape:label="Ink Bleed"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Inky splotches underneath the object"
+       style="color-interpolation-filters:sRGB;"
+       id="filter863"
+       x="-0.18"
+       y="-0.18"
+       width="1.36"
+       height="1.36">
+      <feGaussianBlur
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="1 1"
+         id="feGaussianBlur851" />
+      <feTurbulence
+         result="result0"
+         numOctaves="1"
+         baseFrequency="0.20000000000000001"
+         id="feTurbulence853"
+         type="fractalNoise"
+         seed="0" />
+      <feDisplacementMap
+         result="result2"
+         scale="1.6000000000000014"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1"
+         in2="result0"
+         id="feDisplacementMap855" />
+      <feColorMatrix
+         values="2 0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 0.7 0"
+         result="result3"
+         id="feColorMatrix857" />
+      <feGaussianBlur
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="0.050000000000000003"
+         id="feGaussianBlur859" />
+      <feComposite
+         in="result4"
+         in2="result3"
+         id="feComposite861" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="namedview30"
@@ -67,9 +114,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="true"
-     inkscape:zoom="6.8181821"
-     inkscape:cx="35.493332"
-     inkscape:cy="-10.926666"
+     inkscape:zoom="13.636364"
+     inkscape:cx="5.7933332"
+     inkscape:cy="15.29"
      inkscape:window-width="1713"
      inkscape:window-height="747"
      inkscape:window-x="50"
@@ -148,7 +195,8 @@
        width="14"
        height="14"
        xlink:href="data:image/svg+xml;base64,PHN2ZyBpZD0ic3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCwgMCwgNDAwLDQwMCI+PGcgaWQ9InN2Z2ciPjxwYXRoIGlkPSJwYXRoMCIgZD0iTTE2Mi4yMDUgMC44MjkgQyA5Mi40ODEgOC4zOTgsMzIuMDQ1IDU2LjY2Niw5Ljg0NSAxMjIuNTE0IEMgNy40MDQgMTI5Ljc1NCw3LjQzMiAxMjkuNDMzLDYuMjY2IDE2My4yNTUgQyA1LjUxNSAxODUuMDI0LDUuOTQ4IDIzOC40ODksNy4wMzQgMjU4LjI2OCBMIDcuNzcwIDI3MS42NTQgOS45NjggMjc3Ljk1MyBDIDMzLjIwMSAzNDQuNTUwLDkyLjgzNyAzOTEuODM3LDE2Mi44NzAgMzk5LjE5MSBDIDE3My45MzEgNDAwLjM1MywyMjYuMDY5IDQwMC4zNTMsMjM3LjEzMCAzOTkuMTkxIEMgMzAyLjIxNCAzOTIuMzU2LDM2Mi4zOTUgMzQ3LjkzOSwzODUuNDc3IDI4OS43MDQgQyAzOTAuOTE0IDI3NS45ODUsMzkwLjkwOCAxMjQuMDAwLDM4NS40NjkgMTEwLjI3NyBDIDM2Mi4zOTcgNTIuMDYzLDMwMi4yMDQgNy42NDMsMjM3LjEzMCAwLjgwOSBDIDIyNi44MjYgLTAuMjczLDE3Mi4yMjMgLTAuMjU4LDE2Mi4yMDUgMC44MjkgTTE2My43ODAgMTI0Ljg0MSBMIDE2My43ODAgMTk4Ljc2MyAxNTcuOTMyIDIwNC41MDAgQyAxNTQuNzE2IDIwNy42NTUsMTM0LjcxNCAyMjcuNTM3LDExMy40ODIgMjQ4LjY4MiBDIDkyLjI1MSAyNjkuODI3LDc0Ljc5MiAyODcuMDQwLDc0LjY4NSAyODYuOTMzIEMgNzQuMzk5IDI4Ni42NDcsNzMuNTE5IDI3OS44MDcsNzIuOTU3IDI3My40OTEgQyA3Mi42ODYgMjcwLjQ1OSw3Mi4yMDkgMjY1LjI2Miw3MS44OTYgMjYxLjk0MiBDIDY5Ljg0MSAyNDAuMTY1LDY5Ljg0NiAxNDguMTE1LDcxLjkwMyAxMjguNTY5IEMgNzIuMjIwIDEyNS41NjAsNzIuNjk1IDEyMC45NzEsNzIuOTYwIDExOC4zNzMgQyA3My4zOTUgMTE0LjA4NCw3My43OTUgMTExLjM5Niw3NS41NzEgMTAwLjc4NyBDIDc1Ljg4NiA5OC45MTEsNzYuMzQ0IDk3LjAxMiw3Ni41ODkgOTYuNTY4IEMgNzYuODM1IDk2LjEyNCw3Ny4xOTYgOTQuNzA2LDc3LjM5MyA5My40MTggQyA3Ny41ODkgOTIuMTMwLDc3Ljk1MyA5MC42MDQsNzguMjAyIDkwLjAyNiBDIDc4LjQ1MSA4OS40NDksNzkuMjU2IDg3LjA4Nyw3OS45OTEgODQuNzc3IEMgODEuNzg2IDc5LjEzNyw4Mi42OTQgNzYuNjgzLDgzLjY4MSA3NC44MDMgQyA4NC4xMzYgNzMuOTM3LDg0LjUwOSA3Mi45NTMsODQuNTExIDcyLjYxNiBDIDg0LjUxMyA3Mi4yNzksODQuNjkyIDcxLjkyNSw4NC45MDggNzEuODI5IEMgODUuMTI1IDcxLjczMiw4NS44ODcgNzAuNTMxLDg2LjYwMyA2OS4xNjAgQyA4Ny4zMTkgNjcuNzg5LDg4LjA3MSA2Ni42NjcsODguMjc0IDY2LjY2NyBDIDg4LjQ3NyA2Ni42NjcsODguNzc1IDY2LjI1Myw4OC45MzUgNjUuNzQ4IEMgODkuNTQyIDYzLjg0MCw5Ni41MDYgNTcuMTEyLDEwMS4wMTcgNTQuMDc2IEwgMTA1LjcwOSA1MC45MTkgMTM0Ljc0NCA1MC45MTkgTCAxNjMuNzgwIDUwLjkxOSAxNjMuNzgwIDEyNC44NDEgTTI5Mi40NTMgNTIuNjMxIEMgMjk1LjQ5NSA1NC4zODMsMzAyLjA4NyA1OS42NTAsMzAyLjU0NSA2MC42OTUgQyAzMDIuNjg3IDYxLjAxOSwyOTUuNDE3IDY4LjY5NiwyODYuMzg5IDc3Ljc1NSBDIDI2Ny45NTQgOTYuMjU0LDIzMi41MjIgMTMxLjIzNCwyMzIuMjE5IDEzMS4yMzQgQyAyMzIuMTEwIDEzMS4yMzQsMjMyLjAyMSAxMTMuMTYzLDIzMi4wMjEgOTEuMDc2IEwgMjMyLjAyMSA1MC45MTkgMjYwLjc2MSA1MC45MjUgTCAyODkuNTAxIDUwLjkzMiAyOTIuNDUzIDUyLjYzMSBNMzIzLjM3MiAxMjcuMDM0IEMgMzI0LjkxOCAxMzYuNjY4LDMyNi4xMjggMjE1LjQzOCwzMjQuOTg1IDIzMi4wMjEgQyAzMjQuNjc2IDIzNi40OTYsMzI0LjE4NiAyNDUuNTkxLDMyMy44OTUgMjUyLjIzMSBDIDMyMy4wNjYgMjcxLjEzOSwzMjAuNDQ5IDI5My4wNzEsMzE4LjEzMSAzMDAuNTI1IEMgMzE3Ljg2MiAzMDEuMzkxLDMxNy40ODQgMzAzLjIyNSwzMTcuMjkwIDMwNC42MDAgQyAzMTcuMDk3IDMwNS45NzUsMzE2Ljc1MiAzMDcuMjE1LDMxNi41MjQgMzA3LjM1NiBDIDMxNi4yOTYgMzA3LjQ5NywzMTUuOTQ2IDMwOC43OTMsMzE1Ljc0OCAzMTAuMjM2IEMgMzE1LjU1MCAzMTEuNjc5LDMxNS4xOTQgMzEyLjk3OSwzMTQuOTU3IDMxMy4xMjYgQyAzMTQuNzIxIDMxMy4yNzIsMzE0LjM2OCAzMTQuMzM0LDMxNC4xNzMgMzE1LjQ4NiBDIDMxMy45NzkgMzE2LjYzNywzMTMuNjA0IDMxNy43MTMsMzEzLjM0MCAzMTcuODc2IEMgMzEzLjA3NyAzMTguMDM5LDMxMi44NTMgMzE4LjU3MiwzMTIuODQzIDMxOS4wNjAgQyAzMTIuODMzIDMxOS41NDgsMzEyLjM2OSAzMjAuODkyLDMxMS44MTEgMzIyLjA0NyBDIDMxMS4yNTMgMzIzLjIwMiwzMTAuNzg5IDMyNC4zMTcsMzEwLjc3OSAzMjQuNTI1IEMgMzEwLjc2OSAzMjQuNzMyLDMwOS41ODMgMzI2Ljg5NiwzMDguMTQ0IDMyOS4zMzMgQyAyOTcuMzU3IDM0Ny41OTUsMjc1LjExNSAzNTcuNDgwLDI0NC44MTAgMzU3LjQ4MCBMIDIzMi4wMjEgMzU3LjQ4MCAyMzIuMDIxIDI4NC4xNzcgTCAyMzIuMDIxIDIxMC44NzQgMjM2Ljg3NyAyMDUuODk4IEMgMjM5LjU0NyAyMDMuMTYxLDI0Mi43ODYgMTk5Ljk0NywyNDQuMDc0IDE5OC43NTUgQyAyNDUuMzYyIDE5Ny41NjMsMjYzLjU1MSAxNzkuNTE5LDI4NC40OTQgMTU4LjY1NiBDIDMxOC42NTkgMTI0LjYyMywzMjIuNTg1IDEyMC44NzQsMzIyLjY5OCAxMjIuMTc0IEMgMzIyLjc2NyAxMjIuOTcwLDMyMy4wNzEgMTI1LjE1NywzMjMuMzcyIDEyNy4wMzQgTTE2My45MDggMzI1LjA2NiBMIDE2NC4wNDIgMzU3LjQ4MSAxNTAuOTE5IDM1Ny40ODAgQyAxMzUuNjIzIDM1Ny40ODAsMTMwLjg5OCAzNTYuODA3LDExOC44OTggMzUyLjkyMSBDIDExMS42NTcgMzUwLjU3Niw5Ny44OTYgMzQzLjQ1MSw5OC43NzggMzQyLjUwNCBDIDEwMS4yMTggMzM5Ljg4NiwxMzQuNTEyIDMwNi42MzksMTQ2Ljc4NiAyOTQuNTY0IEwgMTYzLjUxNyAyNzguMTA0IDE2My42NDUgMjg1LjM3OCBDIDE2My43MTYgMjg5LjM3OCwxNjMuODM0IDMwNy4yMzgsMTYzLjkwOCAzMjUuMDY2ICIgc3Ryb2tlPSJub25lIiBmaWxsPSIjMDAwMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD48L2c+PC9zdmc+"
-       id="image20" />
+       id="image20"
+       style="filter:url(#filter863)" />
     <text
        aria-hidden="true"
        x="385"
@@ -174,4 +222,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110px;font-family:'Latin Modern Mono Caps';-inkscape-font-specification:'Latin Modern Mono Caps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
          id="tspan735">OZI</tspan></text>
   </g>
+  <metadata
+     id="metadata899">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OZI</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
