@@ -44,7 +44,7 @@ were transformed spherically to yield the second version of the logo that is cur
 * 🛑 DO NOT distort or obscure the OZI logo<sup>*</sup>.
 * 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
 
-*Note that the sole exception is the OZI Badge which uses an ink-bleed effect.
+*Note that the sole exception is the OZI Badge ![OZI Badge](images/ozi-badge.svg) which uses an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo variant currently authorized.
 
 ### blastpipe logo
