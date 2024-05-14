@@ -55,8 +55,8 @@ The blastpipe logo was designed by Eden Ross Duff.
 ![blastpipe-logo](images/blastpipe-logo.svg)
 
 * 🛑 DO NOT add your own colorways or background.
-* 🛑 DO NOT distort or obscure the OZI logo<sup>*</sup>.
-* 🛑 DO NOT use the OZI logo in such a way as to suggest endorsement or affiliation.
+* 🛑 DO NOT distort or obscure the blastpipe logo<sup>*</sup>.
+* 🛑 DO NOT use the blastpipe logo in such a way as to suggest endorsement or affiliation.
 
 ## Generative AI Transparency
 
