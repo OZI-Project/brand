@@ -1,2 +1,3 @@
 *.pb linguist-language=protobuf
 *.html linguist-documentation
+*.svg linguist-detectable
