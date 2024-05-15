@@ -51,10 +51,16 @@ You should NOT do this with the OZI logo yourself, this is the only logo variant
 
 The blastpipe logo was designed by Eden Ross Duff.
 
+#### Vector Graphic
+
 <img src="images/blastpipe-logo.svg" width="220px">
 
+#### Raster Graphic
+
+<img src="images/blastpipe-logo.png" width="220px">
+
 * 🛑 DO NOT add your own colorways or background.
-* 🛑 DO NOT distort or obscure the blastpipe logo<sup>*</sup>.
+* 🛑 DO NOT distort or obscure the blastpipe logo.
 * 🛑 DO NOT use the blastpipe logo in such a way as to suggest endorsement or affiliation.
 
 ## Generative AI Transparency
