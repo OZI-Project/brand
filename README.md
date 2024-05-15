@@ -3,7 +3,7 @@
 Brand image and acceptable use policies.
 This README text, the OZI logo, OZI badge, and blastpipe logo are licensed [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 Fonts are hosted here for use in OZI Project webpages, documentation, and services.
-Font source files are used under license terms included in their respective folders.
+Font source files are distributed and used under license terms included in their respective folders.
 
 ## Font Lockup
 
