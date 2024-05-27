@@ -46,7 +46,7 @@ square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo
 that is currently in use.
 
-.. image:: images/ozi_logo_v2.svg
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg
    :width: 200px
 
 * ✅ Invert the logo up to .8 for visual contrast.
@@ -58,7 +58,7 @@ that is currently in use.
 
 :superscript:`*` Note that the sole exception is the OZI Badge
 
-.. image:: images/ozi-badge.svg
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
 
 which uses an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo
@@ -72,13 +72,13 @@ The blastpipe logo was designed by Eden Ross Duff.
 Vector Graphic
 """"""""""""""
 
-.. image:: images/blastpipe-logo.svg
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/blastpipe-logo.svg
    :width: 220px
 
 Raster Graphic
 """"""""""""""
 
-.. image:: images/blastpipe-logo.png
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/blastpipe-logo.png
    :width: 220px
 
 
@@ -100,6 +100,6 @@ Generative AI Transparency
 
    -- Eden Ross Duff MSc
 
-.. image:: no-ai-icon-01.svg
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/no-ai-icon-01.svg
    :width: 72px
    :target: https://no-ai-icon.com/statement/?url=oziproject.dev
