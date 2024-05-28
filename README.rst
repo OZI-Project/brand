@@ -52,7 +52,7 @@ that is currently in use.
 * |:white_check_mark:| Invert the logo up to .8 for visual contrast.
 
 * |:stop_sign:| DO NOT add your own colorways or background.
-* |:stop_sign:| DO NOT distort or obscure the OZI logo:superscript:`*`.
+* |:stop_sign:| DO NOT distort or obscure the OZI logo. :superscript:`*`
 * |:stop_sign:| DO NOT use the OZI logo in such a way as to suggest endorsement
   or affiliation.
 
