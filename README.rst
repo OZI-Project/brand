@@ -84,8 +84,8 @@ Raster Graphic
 
 * |:stop_sign:| DO NOT add your own colorways or background.
 * |:stop_sign:| DO NOT distort or obscure the blastpipe logo.
-* |:stop_sign:| DO NOT use the blastpipe logo in such a way as to suggest endorsement
-  or affiliation.
+* |:stop_sign:| DO NOT use the blastpipe logo in such a way as to suggest
+  endorsement or affiliation.
 
 Generative AI Transparency
 --------------------------
