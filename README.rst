@@ -1,14 +1,15 @@
+
+.. |cc-by-nd| image:: https://i.creativecommons.org/l/by-nd/4.0/80x15.png
+   :target: http://creativecommons.org/licenses/by-nd/4.0/
+   :alt: Creative Commons License
+
 ==============================
 Brand Image and Acceptable Use
 ==============================
 
 Brand image and acceptable use policies.
-This section text, the OZI logo, OZI badge, and blastpipe logo are licensed `CC BY-ND <https://creativecommons.org/licenses/by-nd/4.0/>`_.
-
-.. image:: https://i.creativecommons.org/l/by-nd/4.0/80x15.png
-   :target: http://creativecommons.org/licenses/by-nd/4.0/
-   :alt: Creative Commons License
-
+This section text, the OZI logo, OZI badge, and blastpipe logo are licensed
+|cc-by-nd|.
 Fonts are hosted for use in OZI Project webpages, documentation, and services.
 Font source files are distributed and used under license terms included in
 their respective folders.
