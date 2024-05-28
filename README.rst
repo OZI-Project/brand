@@ -51,9 +51,9 @@ that is currently in use.
 
 * |:white_check_mark:| Invert the logo up to .8 for visual contrast.
 
-* |:stop_sign:| DO NOT add your own colorways or background.
-* |:stop_sign:| DO NOT distort or obscure the OZI logo. :superscript:`*`
-* |:stop_sign:| DO NOT use the OZI logo in such a way as to suggest endorsement
+* |:x:| DO NOT add your own colorways or background.
+* |:x:| DO NOT distort or obscure the OZI logo. :superscript:`*`
+* |:x:| DO NOT use the OZI logo in such a way as to suggest endorsement
   or affiliation.
 
 :superscript:`*` Note that the sole exception is the OZI Badge
@@ -82,9 +82,9 @@ Raster Graphic
    :width: 220px
 
 
-* |:stop_sign:| DO NOT add your own colorways or background.
-* |:stop_sign:| DO NOT distort or obscure the blastpipe logo.
-* |:stop_sign:| DO NOT use the blastpipe logo in such a way as to suggest
+* |:x:| DO NOT add your own colorways or background.
+* |:x:| DO NOT distort or obscure the blastpipe logo.
+* |:x:| DO NOT use the blastpipe logo in such a way as to suggest
   endorsement or affiliation.
 
 Generative AI Transparency
