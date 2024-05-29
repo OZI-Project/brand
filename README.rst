@@ -50,8 +50,16 @@ The original OZI Project logo was designed by Eden Ross Duff MSc by
 layering the letters "OZI" in Latin Modern Mono. This logo is used for our
 documentation webpages.
 
-.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_master.png
-   :width: 200px
+.. only:: latex
+
+   .. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_master.png
+      :width: 200px
+
+.. only:: html
+
+   .. raw:: html
+
+      <img src="https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_master.png" class="dark:invert" width="200px"></img>
 
 This was then rescaled
 to approximate the small cap version x-height, making the logo roughly
@@ -59,11 +67,18 @@ square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo
 that is currently in use for the OZI Project and the OZI package.
 
-.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg
-   :width: 200px
+.. only:: latex
+
+   .. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg
+      :width: 200px
+
+.. only:: html
+
+   .. raw:: html
+
+      <img src="https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg" class="dark:invert" width="200px"></img>
 
 * |:white_check_mark:| DO invert the logo up to .8 for visual contrast.
-
 * |:x:| DO NOT add your own colorways or background.
 * |:x:| DO NOT distort or obscure the OZI logo. :superscript:`*`
 * |:x:| DO NOT use the OZI logo in such a way as to suggest endorsement
