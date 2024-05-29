@@ -2,6 +2,7 @@
 .. |cc-by-nd| image:: https://i.creativecommons.org/l/by-nd/4.0/80x15.png
    :target: http://creativecommons.org/licenses/by-nd/4.0/
    :alt: Creative Commons License
+.. |ozi-badge| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
 
 ==============================
 Brand Image and Acceptable Use
@@ -35,9 +36,9 @@ Use Martian Mono for OZI logo lockup on cover pages.
 
 In English typeset copy:
 
-* TeX Gyre Heros for sans-serif
-* TeX Gyre Termes for serif
-* TXTT for monospace
+* TeX Gyre Heros or GNU FreeSans for sans-serif
+* TeX Gyre Termes or GNU FreeSerif for serif
+* TXTT or GNU FreeMono for monospace
 
 Images
 ------
@@ -46,26 +47,29 @@ OZI Logo
 ^^^^^^^^
 
 The original OZI Project logo was designed by Eden Ross Duff MSc by
-layering the letters "OZI" in Latin Modern Mono. This was then rescaled
+layering the letters "OZI" in Latin Modern Mono. This logo is used for our
+documentation webpages.
+
+.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_master.png
+   :width: 200px
+
+This was then rescaled
 to approximate the small cap version x-height, making the logo roughly
 square. The overlapping serifs were then removed and the outer strokes
 were transformed spherically to yield the second version of the logo
-that is currently in use.
+that is currently in use for the OZI Project and the OZI package.
 
 .. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg
    :width: 200px
 
-* |:white_check_mark:| Invert the logo up to .8 for visual contrast.
+* |:white_check_mark:| DO invert the logo up to .8 for visual contrast.
 
 * |:x:| DO NOT add your own colorways or background.
 * |:x:| DO NOT distort or obscure the OZI logo. :superscript:`*`
 * |:x:| DO NOT use the OZI logo in such a way as to suggest endorsement
   or affiliation.
 
-:superscript:`*` Note that the sole exception is the OZI Badge
-
-.. image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
-
+:superscript:`*` Note that the sole exception is the OZI Badge |ozi-badge|
 which uses an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo
 variant currently authorized.
