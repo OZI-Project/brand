@@ -4,6 +4,7 @@
    :alt: Creative Commons License
 .. |ozi-badge-svg| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
 .. |ozi-badge-png| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.png
+   :width: 55px
 
 ==============================
 Brand Image and Acceptable Use
