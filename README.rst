@@ -2,7 +2,8 @@
 .. |cc-by-nd| image:: https://i.creativecommons.org/l/by-nd/4.0/80x15.png
    :target: http://creativecommons.org/licenses/by-nd/4.0/
    :alt: Creative Commons License
-.. |ozi-badge| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
+.. |ozi-badge-svg| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.svg
+.. |ozi-badge-png| image:: https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi-badge.png
 
 ==============================
 Brand Image and Acceptable Use
@@ -84,10 +85,26 @@ that is currently in use for the OZI Project and the OZI package.
 * |:x:| DO NOT use the OZI logo in such a way as to suggest endorsement
   or affiliation.
 
-:superscript:`*` Note that the sole exception is the OZI Badge |ozi-badge|
-which uses an ink-bleed effect.
+:superscript:`*` Note that the sole exception is the OZI badge which uses
+an ink-bleed effect.
 You should NOT do this with the OZI logo yourself, this is the only logo
 variant currently authorized.
+
+OZI badge
+^^^^^^^^^
+
+The badge was designed by Eden Ross Duff.
+
+Vector Graphic
+""""""""""""""
+
+|ozi-badge-svg|
+
+Raster Graphic
+""""""""""""""
+
+|ozi-badge-png|
+
 
 blastpipe logo
 ^^^^^^^^^^^^^^
