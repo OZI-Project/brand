@@ -38,9 +38,9 @@ Use Martian Mono for OZI logo lockup on cover pages.
 
 In English typeset copy:
 
-* TeX Gyre Heros or GNU FreeSans for sans-serif
-* TeX Gyre Termes or GNU FreeSerif for serif
-* TXTT or GNU FreeMono for monospace
+* TeX Gyre Heros, Latin Modern Sans, or GNU FreeSans for sans-serif
+* TeX Gyre Termes, Latin Modern Roman, or GNU FreeSerif for serif
+* TXTT, DejaVu Sans Mono, or GNU FreeMono for monospace
 
 Images
 ------
