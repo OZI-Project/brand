@@ -11,7 +11,7 @@ Brand Image and Acceptable Use
 ==============================
 
 Brand image and acceptable use policies.
-This section text, the OZI logo, OZI badge, and blastpipe logo are licensed
+This section text, the OZI logos, OZI badges, and blastpipe logos are licensed
 |cc-by-nd|.
 Fonts are hosted for use in OZI Project webpages, documentation, and services.
 Font source files are distributed and used under license terms included in
