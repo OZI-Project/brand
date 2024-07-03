@@ -80,10 +80,10 @@ that is currently in use for the OZI Project and the OZI package.
 
       <img src="https://raw.githubusercontent.com/OZI-Project/brand/main/images/ozi_logo_v2.svg" class="dark:invert" width="200px"></img>
 
-* |:white_check_mark:| DO invert the logo up to .8 for visual contrast.
-* |:x:| DO NOT add your own colorways or background.
-* |:x:| DO NOT distort or obscure the OZI logo. :superscript:`*`
-* |:x:| DO NOT use the OZI logo in such a way as to suggest endorsement
+* ✅ DO invert the logo up to .8 for visual contrast.
+* ❌ DO NOT add your own colorways or background.
+* ❌ DO NOT distort or obscure the OZI logo. :superscript:`*`
+* ❌ DO NOT use the OZI logo in such a way as to suggest endorsement
   or affiliation.
 
 :superscript:`*` Note that the sole exception is the OZI badge which uses
@@ -125,9 +125,9 @@ Raster Graphic
    :width: 220px
 
 
-* |:x:| DO NOT add your own colorways or background.
-* |:x:| DO NOT distort or obscure the blastpipe logo.
-* |:x:| DO NOT use the blastpipe logo in such a way as to suggest
+* ❌ DO NOT add your own colorways or background.
+* ❌ DO NOT distort or obscure the blastpipe logo.
+* ❌ DO NOT use the blastpipe logo in such a way as to suggest
   endorsement or affiliation.
 
 Generative AI Transparency
