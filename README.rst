@@ -20,8 +20,8 @@ their respective folders.
 Font Lockup
 -----------
 
-Web
-^^^
+Web & Graphical User Interfaces
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In English typeset copy:
 
